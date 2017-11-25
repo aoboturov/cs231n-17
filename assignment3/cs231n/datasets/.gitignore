@@ -1,0 +1,4 @@
+coco_captioning
+imagenet_val_25.npz
+squeezenet.*
+MNIST_data
